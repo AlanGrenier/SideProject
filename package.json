@@ -1,0 +1,19 @@
+{
+  "name": "sideproject",
+  "version": "1.0.0",
+  "description": "Side Projects with Ben",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanGrenier/SideProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanGrenier/SideProject/issues"
+  },
+  "homepage": "https://github.com/AlanGrenier/SideProject#readme"
+}
