@@ -13,3 +13,7 @@ git pull origin dev
 Once you have done that you may have to resolve merge conflicts. After that git push and head to github
 GitHub will have a button to create a new pull request. On Click you'll be taken to a new page with `Compare Changes` at the top
 The branch you want to merge into, in this case dev, will be on the left. Your branch should be on the right. Set each drop-down accordingly
+
+Once you have set the branches you will use for the Pull Request the page will the display a GUI for desribing your PR.
+Fill it out and click create pull request
+DONE!
