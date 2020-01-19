@@ -16,4 +16,4 @@ The branch you want to merge into, in this case dev, will be on the left. Your b
 
 Once you have set the branches you will use for the Pull Request the page will the display a GUI for desribing your PR.
 Fill it out and click create pull request
-DONE!
+Finit!
