@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AlanGrenier/SideProject/issues"
   },
-  "homepage": "https://github.com/AlanGrenier/SideProject#readme"
+  "homepage": "https://github.com/AlanGrenier/SideProject#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0"
+  }
 }
